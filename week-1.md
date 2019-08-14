@@ -1,5 +1,6 @@
 # The First Week in WEB 601
 
+![fgfgfg](StrawHouse.png)
 The first week has been busy. Our new tutor Ali Kahwaji 
 arrived straight from a long flight from Barcelona and
 he introduced himself and outlined his experience in 

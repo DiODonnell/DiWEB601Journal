@@ -1,5 +1,7 @@
 # Week Three
 
+![Functions](functions.jpg)
+
 
 
 

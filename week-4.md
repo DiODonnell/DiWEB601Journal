@@ -28,7 +28,7 @@ Fridays class was an introduction to express.js the command statements and how M
 
 Ali gave an analogy of a restaurant as a way for us to understand what is quite a complex series of things that happen. There is a business owner who doesn't know hoe to run the restaurant but has a purpose of wanting the restaurant to run well as a business. So he advertises for a manager who has a certain set of skills to do what he can't. This represents node not having express.js so needs to ask it to come and provide its services. You make a variable Express (an instance you can use) = require ('express') a module that can then be used to help "run the restaurant". It is a seperate framework which is downloaded using npm which gives all the functionality I need and I use the a saved keyword each time I want to use its skills or functionality. e.g. var app = express(). Now app has a list of all the functionalities and can be used over and over. {art of the functionalities are like checks or rules of who can come into the restaurant - "Do they have a booking", "is the booking confirmed" and "are they of a legal age?" This is decision making that is part of "Middleware" it includes a series of actions (can be many) that need to be done in any express app. It goes through each decision and series of actions sequentially and can't skip a step.
 
-![Middleware](Middleware.jpg)
+![Middleware](Middleware.PNG)
 
 ### Code Example:
 app.use (function (req, res, next) {
